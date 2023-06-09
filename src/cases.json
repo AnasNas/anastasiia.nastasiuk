@@ -544,49 +544,4 @@
       }
     ]
   },
-  {
-    "id": 12,
-    "title": "Producing juices, purees and water in Ukraine",
-    "text": "Online catalog // Ukraine",
-    "link": "https://order.ecosphere.com.ua/",
-    "images": [
-      "./assets/images/cases/ecosphere_1.jpg",
-      "./assets/images/cases/ecosphere_2.jpg",
-      "./assets/images/cases/ecosphere_3.jpg",
-      "./assets/images/cases/ecosphere_4.jpg",
-      "./assets/images/cases/ecosphere_5.jpg"
-    ],
-    "skills": [
-      {
-        "title": "CMS Development Deliverables",
-        "text": [
-          "Website"
-        ]
-      },
-      {
-        "title": "Front-End Development Deliverables",
-        "text": [
-          "WordPress Development"
-        ]
-      },
-      {
-        "title": "Product Management Skills",
-        "text": [
-          "UX & UI"
-        ]
-      },
-      {
-        "title": "Programming Languages",
-        "text": [
-          "JavaScript"
-        ]
-      },
-      {
-        "title": "UX/UI Design Software",
-        "text": [
-          "Figma"
-        ]
-      }
-    ]
-  }
 ]
