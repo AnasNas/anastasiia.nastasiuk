@@ -38,12 +38,6 @@
                         320: {
                           slidesPerView: 1
                         },
-                        575: {
-                          slidesPerView: 2
-                        },
-                        767: {
-                          slidesPerView: 1
-                        },
                         1024: {
                           slidesPerView: 2
                         }
@@ -52,15 +46,15 @@
                 >
                     <swiper-slide>
                         <h4 class="h4">Let's talk!</h4>
-                        <h2>malah.rc@gmail.com</h2>
+                        <h2>anastasiia.nastasiuk@gmail.com</h2>
                     </swiper-slide>
                     <swiper-slide>
                         <h4 class="h4">Let's talk!</h4>
-                        <h2>malah.rc@gmail.com</h2>
+                        <h2>anastasiia.nastasiuk@gmail.com</h2>
                     </swiper-slide>
                     <swiper-slide>
                         <h4 class="h4">Let's talk!</h4>
-                        <h2>malah.rc@gmail.com</h2>
+                        <h2>anastasiia.nastasiuk@gmail.com</h2>
                     </swiper-slide>
                 </swiper>
             </div>
@@ -138,8 +132,8 @@ export default {
 .swiper-slide {
     h2 {
         color: #FFFFFF;
-        font-size: 36px;
-        line-height: 43px;
+        font-size: 26px;
+        line-height: 30px;
     }
 
     h4 {
@@ -238,6 +232,19 @@ export default {
         h2 {
             font-size: 24px;
             line-height: 34px;
+        }
+    }
+}
+
+@include breakpoint(small-tablet-portrait) {
+    .swiper-slide {
+        h4 {
+            font-size: 14px;
+            line-height: 16px;
+        }
+        h2 {
+            font-size: 18px;
+            line-height: 20px;
         }
     }
 }

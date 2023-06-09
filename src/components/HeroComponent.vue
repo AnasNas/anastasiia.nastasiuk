@@ -15,17 +15,13 @@
             <div>
                 <h1 class="main-title">
                     <span class="animate-text">Portfolio</span>
-                    <span >of Malykh Vitaliy</span>
+                    <span ><span>of</span> Anastasiia</span>
                 </h1>
 
                 <h2 class="hero-subtitle">
-                    <svg width="30" aria-hidden="true" data-name="Layer 1" viewBox="0 0 14 14" role="img">
-                        <polygon points="6.98 0 0 0 0 9.21 6.98 14 13.95 9.21 13.95 0 6.98 0" fill="#f86d9c"/>
-                        <polygon points="0 0 14 9.21 14 0 0 0" fill="#fba0bd"/>
-                        <polygon points="0.05 9.21 7.02 14 14 9.21 14 0 0.05 9.21" fill="#f1367a" />
-                    </svg>
+                    <img :src="require('@/assets/images/hero-rate.png')" alt="hero person">
 
-                    <span>top rated plus</span>
+                    <span>top rated</span>
                 </h2>
             </div>
 
@@ -91,22 +87,28 @@ export default {
         height: 100%;
     }
 
-    img {
-        width: 100%;
-        max-width: 100%;
-        height: auto;
-        margin-top: -70px;
+    .hero-img {
+        img {
+            width: 100%;
+            max-width: 100%;
+            height: auto;
+            margin-top: -240px;
+        }
     }
 
     .main-title {
         position: relative;
         white-space: nowrap;
+
+        span > span {
+            font-size: 77px;
+        }
     }
 
     .animate-text {
         position: absolute;
         top: -210px;
-        left: 0;
+        left: -30px;
         display: block;
         font-family: $Caveat;
         font-style: normal;
@@ -156,7 +158,7 @@ export default {
         }
 
         .main-title {
-            font-size: 100px;
+            font-size: 120px;
 
             .animate-text {
                 top: -170px;
@@ -167,12 +169,17 @@ export default {
 
     @include breakpoint(small) {
         .main-title {
-            font-size: 70px;
+            font-size: 90px;
 
             .animate-text {
                 top: -120px;
+                left: -15px;
                 font-size: 135px;
                 text-shadow: -4px 0 #FFFFFF, 0 4px #FFFFFF, 4px 0 #FFFFFF, 0 -4px #FFFFFF;
+            }
+
+            span > span {
+                font-size: 60px;
             }
         }
 
@@ -189,11 +196,15 @@ export default {
         }
 
         .main-title {
-            font-size: 50px;
+            font-size: 66px;
 
             .animate-text {
                 top: -85px;
                 font-size: 96px;
+            }
+
+            span > span {
+                font-size: 41px;
             }
         }
 
@@ -217,14 +228,16 @@ export default {
 
         .hero-img {
             max-width: 300px;
+
+            img {
+                margin-top: -100px;
+            }
         }
 
         .main-title {
-            font-size: 50px;
-
             .animate-text {
-                top: -83px;
-                font-size: 97px;
+                top: -70px;
+                font-size: 90px;
                 text-shadow: -2px 0 #FFFFFF, 0 2px #FFFFFF, 2px 0 #FFFFFF, 0 -2px #FFFFFF;
             }
         }
