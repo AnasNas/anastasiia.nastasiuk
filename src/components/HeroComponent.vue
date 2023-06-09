@@ -92,7 +92,7 @@ export default {
             width: 100%;
             max-width: 100%;
             height: auto;
-            margin-top: -240px;
+            margin-top: -70px;
         }
     }
 
@@ -228,10 +228,6 @@ export default {
 
         .hero-img {
             max-width: 300px;
-
-            img {
-                margin-top: -100px;
-            }
         }
 
         .main-title {
