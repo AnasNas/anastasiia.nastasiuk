@@ -1,158 +1,63 @@
 [
   {
     "id": 1,
-    "title": "BespokeMoving",
-    "text": "Moving Solutions Company // USA",
-    "link": "https://bespokemoving.net/",
+    "title": "Santa brands",
+    "text": "Brand Clothes official site // Ukraine",
+    "link": "https://santa-brands.com/",
     "images": [
-      "./assets/images/cases/BespokeMoving_1.jpg",
-      "./assets/images/cases/BespokeMoving_2.jpg",
-      "./assets/images/cases/BespokeMoving_3.jpg",
-      "./assets/images/cases/BespokeMoving_4.jpg"
+      "./assets/images/cases/santa1-min.jpg",
+      "./assets/images/cases/santa2-min.jpg",
+      "./assets/images/cases/santa3-min.jpg",
+      "./assets/images/cases/santa4-min.jpg"
     ],
     "skills": [
       {
-        "title": "CMS Customization Deliverables",
+        "title": "CMS Development Deliverables",
         "text": [
-          "WordPress Plugin"
+          "Website"
         ]
       },
       {
         "title": "Front-End Development Deliverables",
         "text": [
-          "WordPress Development"
+          "WordPress Development",
+          "Ecommerce Website"
         ]
       },
       {
-        "title": "Full Stack Development Skills",
+        "title": "Product Management Skills",
         "text": [
-          "jQuery"
+          "UX & UI"
         ]
       },
       {
         "title": "Programming Languages",
         "text": [
-          "Java Script",
+          "JavaScript",
           "PHP"
         ]
       },
       {
-        "title": "Website Builders & CMS Platforms",
+        "title": "UX/UI Design Software",
         "text": [
-          "WordPress"
+          "Figma"
         ]
       }
     ]
   },
   {
     "id": 2,
-    "title": "Chelsea",
-    "text": "furniture online store // uk",
-    "link": "http://chelseaupholstery.co.uk/",
-    "images": [
-      "./assets/images/cases/Chelsea_1.jpg",
-      "./assets/images/cases/Chelsea_2.jpg",
-      "./assets/images/cases/Chelsea_3.jpg",
-      "./assets/images/cases/Chelsea_4.jpg",
-      "./assets/images/cases/Chelsea_5.jpg",
-      "./assets/images/cases/Chelsea_6.jpg",
-      "./assets/images/cases/Chelsea_7.jpg",
-      "./assets/images/cases/Chelsea_8.jpg",
-      "./assets/images/cases/Chelsea_9.jpg"
-    ],
-    "skills": [
-      {
-        "title": "CMS Customization Deliverables",
-        "text": [
-          "WordPress Plugin"
-        ]
-      },
-      {
-        "title": "CMS Development Deliverables",
-        "text": [
-          "Ecommerce Website"
-        ]
-      },
-      {
-        "title": "Front-End Development Deliverables",
-        "text": [
-          "WordPress Development"
-        ]
-      },
-      {
-        "title": "Website Builders & CMS Platforms",
-        "text": [
-          "WordPress"
-        ]
-      }
-    ]
-  },
-  {
-    "id": 3,
-    "title": "Balanciaga",
-    "text": "Online Clothing Store",
-    "link": "http://boutique.rctest.xyz/",
-    "images": [
-      "./assets/images/cases/Balenciaga_1.jpg",
-      "./assets/images/cases/Balenciaga_2.jpg",
-      "./assets/images/cases/Balenciaga_3.jpg",
-      "./assets/images/cases/Balenciaga_4.jpg",
-      "./assets/images/cases/Balenciaga_5.jpg",
-      "./assets/images/cases/Balenciaga_6.jpg",
-      "./assets/images/cases/Balenciaga_7.jpg"
-    ],
-    "skills": [
-      {
-        "title": "CMS Development Deliverables",
-        "text": [
-          "Ecommerce Website"
-        ]
-      },
-      {
-        "title": "eCommerce Development Skills",
-        "text": [
-          "Laravel"
-        ]
-      },
-      {
-        "title": "Full Stack Development Deliverables",
-        "text": [
-          "Web Development"
-        ]
-      },
-      {
-        "title": "Full Stack Development Skills",
-        "text": [
-          "Vue.js"
-        ]
-      },
-      {
-        "title": "Graphic Design Deliverables",
-        "text": [
-          "Clothing"
-        ]
-      },
-      {
-        "title": "Programming Languages",
-        "text": [
-          "PHP"
-        ]
-      }
-    ]
-  },
-  {
-    "id": 4,
     "title": "Vodalove",
     "text": "Distilled Water Shop // Ukraine",
     "link": "https://voda.love/",
     "images": [
-      "./assets/images/cases/VodaLove_1.jpg",
-      "./assets/images/cases/VodaLove_2.jpg",
-      "./assets/images/cases/VodaLove_3.jpg",
-      "./assets/images/cases/VodaLove_4.jpg",
-      "./assets/images/cases/VodaLove_5.jpg",
-      "./assets/images/cases/VodaLove_6.jpg",
-      "./assets/images/cases/VodaLove_7.jpg"
+      "./assets/images/cases/VodaLove_1-min.jpg",
+      "./assets/images/cases/VodaLove_2-min.jpg",
+      "./assets/images/cases/VodaLove_3-min.jpg",
+      "./assets/images/cases/VodaLove_4-min.jpg",
+      "./assets/images/cases/VodaLove_5-min.jpg",
+      "./assets/images/cases/VodaLove_6-min.jpg",
+      "./assets/images/cases/VodaLove_7-min.jpg"
     ],
     "skills": [
       {
@@ -200,77 +105,27 @@
     ]
   },
   {
-    "id": 5,
-    "title": "TinyLittleSleepers",
-    "text": "Sleep Coach for Babies // Israel",
-    "link": "https://tinylittlesleepers.co.il/",
+    "id": 3,
+    "title": "Producing juices, purees and water in Ukraine",
+    "text": "Online catalog // Ukraine",
+    "link": "https://order.ecosphere.com.ua/",
     "images": [
-      "./assets/images/cases/TinyLittleSleepers_1.jpg",
-      "./assets/images/cases/TinyLittleSleepers_2.jpg",
-      "./assets/images/cases/TinyLittleSleepers_3.jpg",
-      "./assets/images/cases/TinyLittleSleepers_4.jpg",
-      "./assets/images/cases/TinyLittleSleepers_5.jpg",
-      "./assets/images/cases/TinyLittleSleepers_6.jpg"
+      "./assets/images/cases/ecosphere_1-min.jpg",
+      "./assets/images/cases/ecosphere_2-min.jpg",
+      "./assets/images/cases/ecosphere_3-min.jpg",
+      "./assets/images/cases/ecosphere_4-min.jpg",
+      "./assets/images/cases/ecosphere_5-min.jpg"
     ],
     "skills": [
       {
-        "title": "Business Size",
+        "title": "CMS Development Deliverables",
         "text": [
-          "Business with 1-9 EmployeesBusiness with 10-99 Employees"
+          "Website"
         ]
       },
       {
         "title": "Front-End Development Deliverables",
         "text": [
-          "WordPress Development"
-        ]
-      },
-      {
-        "title": "Programming Languages",
-        "text": [
-          "JavaScript"
-        ]
-      },
-      {
-        "title": "SEO Tools",
-        "text": [
-          "WordPress SEO Plugins"
-        ]
-      },
-      {
-        "title": "Website Builders & CMS Platforms",
-        "text": [
-          "WordPress"
-        ]
-      }
-    ]
-  },
-  {
-    "id": 6,
-    "title": "AviaService",
-    "text": "Air Cargo Services",
-    "link": "https://aviaservice.su/en/services/",
-    "images": [
-      "./assets/images/cases/AviaService_1.jpg",
-      "./assets/images/cases/AviaService_2.jpg",
-      "./assets/images/cases/AviaService_3.jpg",
-      "./assets/images/cases/AviaService_4.jpg",
-      "./assets/images/cases/AviaService_5.jpg",
-      "./assets/images/cases/AviaService_6.jpg",
-      "./assets/images/cases/AviaService_7.jpg",
-      "./assets/images/cases/AviaService_8.jpg"
-    ],
-    "skills": [
-      {
-        "title": "CMS Customization Deliverables",
-        "text": [
-          "WordPress Plugin"
-        ]
-      },
-      {
-        "title": "Front-End Development Deliverables",
-        "text": [
-          "Web Design",
           "WordPress Development"
         ]
       },
@@ -283,36 +138,119 @@
       {
         "title": "Programming Languages",
         "text": [
-          "PHP"
+          "JavaScript"
         ]
       },
       {
-        "title": "UX/UI Design Skills",
+        "title": "UX/UI Design Software",
         "text": [
-          "UI/UX Prototyping",
-          "Design Mockup"
-        ]
-      },
-      {
-        "title": "Website Builders & CMS Platforms",
-        "text": [
-          "WordPress"
+          "Figma"
         ]
       }
     ]
   },
   {
-    "id": 7,
+    "id": 4,
+    "title": "Juces of Ukraine",
+    "text": "Manufacturer\"s Website // Ukraine",
+    "link": "https://sokiukrainy.com/",
+    "images": [
+      "./assets/images/cases/Juces of Ukraine_1-min.jpg",
+      "./assets/images/cases/Juces of Ukraine_2-min.jpg",
+      "./assets/images/cases/Juces of Ukraine_3-min.jpg",
+      "./assets/images/cases/Juces of Ukraine_4-min.jpg",
+      "./assets/images/cases/Juces of Ukraine_5-min.jpg"
+    ],
+    "skills": [
+      {
+        "title": "CMS Development Deliverables",
+        "text": [
+          "Website"
+        ]
+      },
+      {
+        "title": "Front-End Development Deliverables",
+        "text": [
+          "WordPress Development"
+        ]
+      },
+      {
+        "title": "Product Management Skills",
+        "text": [
+          "UX & UI"
+        ]
+      },
+      {
+        "title": "Programming Languages",
+        "text": [
+          "JavaScript"
+        ]
+      },
+      {
+        "title": "UX/UI Design Software",
+        "text": [
+          "Figma"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Jacqui Bridge",
+    "text": "Spiritual Psychology site // Australia",
+    "link": "https://jacquibridge.com/",
+    "images": [
+      "./assets/images/cases/spiritual psyhology 1-min.jpg",
+      "./assets/images/cases/spiritual psyhology 2-min.jpg",
+      "./assets/images/cases/spiritual psyhology 3-min.jpg",
+      "./assets/images/cases/spiritual psyhology 4-min.jpg"
+    ],
+    "skills": [
+      {
+        "title": "CMS Development Deliverables",
+        "text": [
+          "Website"
+        ]
+      },
+      {
+        "title": "Front-End Development Deliverables",
+        "text": [
+          "WordPress Development"
+        ]
+      },
+      {
+        "title": "Product Management Skills",
+        "text": [
+          "UX & UI"
+        ]
+      },
+      {
+        "title": "Programming Languages",
+        "text": [
+          "JavaScript",
+          "PHP"
+        ]
+      },
+      {
+        "title": "UX/UI Design Software",
+        "text": [
+          "Figma"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
     "title": "remdok",
     "text": "Building Renovation Services // Ukraine",
     "link": "https://remdok.com.ua/",
     "images": [
-      "./assets/images/cases/Remdok_1.jpg",
-      "./assets/images/cases/Remdok_2.jpg",
-      "./assets/images/cases/Remdok_3.jpg",
-      "./assets/images/cases/Remdok_4.jpg",
-      "./assets/images/cases/Remdok_5.jpg",
-      "./assets/images/cases/Remdok_6.jpg"
+      "./assets/images/cases/Remdok_1-min.jpg",
+      "./assets/images/cases/Remdok_2-min.jpg",
+      "./assets/images/cases/Remdok_3-min.jpg",
+      "./assets/images/cases/Remdok_4-min.jpg",
+      "./assets/images/cases/Remdok_5-min.jpg",
+      "./assets/images/cases/Remdok_6-min.jpg"
     ],
     "skills": [
       {
@@ -383,12 +321,152 @@
     ]
   },
   {
+    "id": 7,
+    "title": "Chelsea",
+    "text": "furniture online store // uk",
+    "link": "http://chelseaupholstery.co.uk/",
+    "images": [
+      "./assets/images/cases/Chelsea_1-min.jpg",
+      "./assets/images/cases/Chelsea_2-min.jpg",
+      "./assets/images/cases/Chelsea_3-min.jpg",
+      "./assets/images/cases/Chelsea_4-min.jpg",
+      "./assets/images/cases/Chelsea_5-min.jpg",
+      "./assets/images/cases/Chelsea_6-min.jpg",
+      "./assets/images/cases/Chelsea_7-min.jpg",
+      "./assets/images/cases/Chelsea_8-min.jpg",
+      "./assets/images/cases/Chelsea_9-min.jpg"
+    ],
+    "skills": [
+      {
+        "title": "CMS Customization Deliverables",
+        "text": [
+          "WordPress Plugin"
+        ]
+      },
+      {
+        "title": "CMS Development Deliverables",
+        "text": [
+          "Ecommerce Website"
+        ]
+      },
+      {
+        "title": "Front-End Development Deliverables",
+        "text": [
+          "WordPress Development"
+        ]
+      },
+      {
+        "title": "Website Builders & CMS Platforms",
+        "text": [
+          "WordPress"
+        ]
+      }
+    ]
+  },
+  {
     "id": 8,
+    "title": "BespokeMoving",
+    "text": "Moving Solutions Company // USA",
+    "link": "https://bespokemoving.net/",
+    "images": [
+      "./assets/images/cases/BespokeMoving_1-min.jpg",
+      "./assets/images/cases/BespokeMoving_2-min.jpg",
+      "./assets/images/cases/BespokeMoving_3-min.jpg",
+      "./assets/images/cases/BespokeMoving_4-min.jpg"
+    ],
+    "skills": [
+      {
+        "title": "CMS Customization Deliverables",
+        "text": [
+          "WordPress Plugin"
+        ]
+      },
+      {
+        "title": "Front-End Development Deliverables",
+        "text": [
+          "WordPress Development"
+        ]
+      },
+      {
+        "title": "Full Stack Development Skills",
+        "text": [
+          "Figma design",
+          "Google Maps",
+          "Webpack",
+          "jQuery"
+        ]
+      },
+      {
+        "title": "Programming Languages",
+        "text": [
+          "Java Script",
+          "PHP"
+        ]
+      },
+      {
+        "title": "Website Builders & CMS Platforms",
+        "text": [
+          "WordPress"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Studio Gravida",
+    "text": "Custom Sculpture site // Sweden/Netherlands",
+    "link": "https://studiogravida.com/",
+    "images": [
+      "./assets/images/cases/studio gravida 1-min.jpg",
+      "./assets/images/cases/studio gravida 2-min.jpg",
+      "./assets/images/cases/studio gravida 3-min.jpg",
+      "./assets/images/cases/studio gravida 4-min.jpg"
+    ],
+    "skills": [
+      {
+        "title": "CMS Development Deliverables",
+        "text": [
+          "Website"
+        ]
+      },
+      {
+        "title": "Front-End Development Deliverables",
+        "text": [
+          "WordPress Development"
+        ]
+      },
+      {
+        "title": "Product Management Skills",
+        "text": [
+          "UX & UI"
+        ]
+      },
+      {
+        "title": "Programming Languages",
+        "text": [
+          "JavaScript",
+          "PHP"
+        ]
+      },
+      {
+        "title": "UX/UI Design Software",
+        "text": [
+          "Figma"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
     "title": "Get Education",
     "text": "Online Learning Platform // Kazakhstan",
-    "link": "https://get-edu-dev.rctest.xyz",
+    "link": "https://get-edu.kz/",
     "images": [
-      "./assets/images/cases/Get Education_5.jpg"
+      "./assets/images/cases/Get Education_1-min.jpg",
+      "./assets/images/cases/Get Education_2-min.jpg",
+      "./assets/images/cases/Get Education_3-min.jpg",
+      "./assets/images/cases/Get Education_4-min.jpg",
+      "./assets/images/cases/Get Education_5-min.jpg"
     ],
     "skills": [
       {
@@ -418,24 +496,23 @@
     ]
   },
   {
-    "id": 9,
-    "title": "Odesa Regional State Administration",
-    "text": "Cultural Department // Ukraine",
-    "link": "https://dep-cult-dev.rctest.xyz",
+    "id": 11,
+    "title": "TinyLittleSleepers",
+    "text": "Sleep Coach for Babies // Israel",
+    "link": "https://tinylittlesleepers.co.il/",
     "images": [
-      "./assets/images/cases/Odesa Regional_5.jpg"
+      "./assets/images/cases/TinyLittleSleepers_1-min.jpg",
+      "./assets/images/cases/TinyLittleSleepers_2-min.jpg",
+      "./assets/images/cases/TinyLittleSleepers_3-min.jpg",
+      "./assets/images/cases/TinyLittleSleepers_4-min.jpg",
+      "./assets/images/cases/TinyLittleSleepers_5-min.jpg",
+      "./assets/images/cases/TinyLittleSleepers_6-min.jpg"
     ],
     "skills": [
       {
-        "title": "App Features",
+        "title": "Business Size",
         "text": [
-          "Map Integration"
-        ]
-      },
-      {
-        "title": "CMS Customization Deliverables",
-        "text": [
-          "WordPress Plugin"
+          "Business with 1-9 EmployeesBusiness with 10-99 Employees"
         ]
       },
       {
@@ -451,9 +528,9 @@
         ]
       },
       {
-        "title": "Search Engine Marketing Tools",
+        "title": "SEO Tools",
         "text": [
-          "Google My Business"
+          "WordPress SEO Plugins"
         ]
       },
       {
@@ -465,16 +542,164 @@
     ]
   },
   {
-    "id": 10,
+    "id": 12,
+    "title": "AviaService",
+    "text": "Air Cargo Services // WordPress TEMPLATE THEME",
+    "link": "https://aviaservice.su/en/services/",
+    "images": [
+      "./assets/images/cases/AviaService_1-min.jpg",
+      "./assets/images/cases/AviaService_2-min.jpg",
+      "./assets/images/cases/AviaService_3-min.jpg",
+      "./assets/images/cases/AviaService_4-min.jpg",
+      "./assets/images/cases/AviaService_5-min.jpg",
+      "./assets/images/cases/AviaService_6-min.jpg",
+      "./assets/images/cases/AviaService_7-min.jpg",
+      "./assets/images/cases/AviaService_8-min.jpg"
+    ],
+    "skills": [
+      {
+        "title": "CMS Customization Deliverables",
+        "text": [
+          "WordPress Plugin"
+        ]
+      },
+      {
+        "title": "Front-End Development Deliverables",
+        "text": [
+          "Web Design",
+          "WordPress Development"
+        ]
+      },
+      {
+        "title": "Product Management Skills",
+        "text": [
+          "UX & UI"
+        ]
+      },
+      {
+        "title": "Programming Languages",
+        "text": [
+          "PHP"
+        ]
+      },
+      {
+        "title": "UX/UI Design Skills",
+        "text": [
+          "UI/UX Prototyping",
+          "Design Mockup"
+        ]
+      },
+      {
+        "title": "Website Builders & CMS Platforms",
+        "text": [
+          "WordPress"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Odesa Regional State Administration",
+    "text": "Cultural Department // Ukraine",
+    "link": "https://dep-cult-dev.rctest.xyz",
+    "images": [
+      "./assets/images/cases/Odesa Regional_1-min.jpg",
+      "./assets/images/cases/Odesa Regional_2-min.jpg",
+      "./assets/images/cases/Odesa Regional_3-min.jpg",
+      "./assets/images/cases/Odesa Regional_4-min.jpg",
+      "./assets/images/cases/Odesa Regional_5-min.jpg"
+    ],
+    "skills": [
+      {
+        "title": "App Features",
+        "text": [
+          "Map Integration"
+        ]
+      },
+      {
+        "title": "Programming Languages",
+        "text": [
+          "JavaScript"
+        ]
+      },
+      {
+        "title": "Search Engine Marketing Tools",
+        "text": [
+          "Google My Business"
+        ]
+      },
+      {
+        "title": "Leaflet Plugin",
+        "text": [
+          "JavaScript"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Balanciaga",
+    "text": "Online Clothing Store // Laravel TEMPLATE THEME",
+    "link": "http://boutique.rctest.xyz/",
+    "images": [
+      "./assets/images/cases/Balenciaga_1-min.jpg",
+      "./assets/images/cases/Balenciaga_2-min.jpg",
+      "./assets/images/cases/Balenciaga_3-min.jpg",
+      "./assets/images/cases/Balenciaga_4-min.jpg",
+      "./assets/images/cases/Balenciaga_5-min.jpg",
+      "./assets/images/cases/Balenciaga_6-min.jpg",
+      "./assets/images/cases/Balenciaga_7-min.jpg"
+    ],
+    "skills": [
+      {
+        "title": "CMS Development Deliverables",
+        "text": [
+          "Ecommerce Website"
+        ]
+      },
+      {
+        "title": "eCommerce Development Skills",
+        "text": [
+          "Laravel"
+        ]
+      },
+      {
+        "title": "Full Stack Development Deliverables",
+        "text": [
+          "Web Development"
+        ]
+      },
+      {
+        "title": "Full Stack Development Skills",
+        "text": [
+          "Vue.js"
+        ]
+      },
+      {
+        "title": "Graphic Design Deliverables",
+        "text": [
+          "Clothing"
+        ]
+      },
+      {
+        "title": "Programming Languages",
+        "text": [
+          "PHP"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 15,
     "title": "Furniture PQ",
-    "text": "Furniture Online Shop",
+    "text": "Furniture Online Shop // LARAVEL TEMPLATE THEME",
     "link": "http://furniture.rctest.xyz/",
     "images": [
-      "./assets/images/cases/Furniture PQ_1.jpg",
-      "./assets/images/cases/Furniture PQ_2.jpg",
-      "./assets/images/cases/Furniture PQ_3.jpg",
-      "./assets/images/cases/Furniture PQ_4.jpg",
-      "./assets/images/cases/Furniture PQ_5.jpg"
+      "./assets/images/cases/Furniture PQ_1-min.jpg",
+      "./assets/images/cases/Furniture PQ_2-min.jpg",
+      "./assets/images/cases/Furniture PQ_3-min.jpg",
+      "./assets/images/cases/Furniture PQ_4-min.jpg",
+      "./assets/images/cases/Furniture PQ_5-min.jpg"
     ],
     "skills": [
       {
@@ -499,47 +724,6 @@
         "title": "Programming Languages",
         "text": [
           "PHP"
-        ]
-      }
-    ]
-  },
-  {
-    "id": 11,
-    "title": "Juces of Ukraine",
-    "text": "Manufacturer\"s Website // Ukraine",
-    "link": "https://sokiukrainy.com/",
-    "images": [
-      "./assets/images/cases/Juces of Ukraine_5.jpg"
-    ],
-    "skills": [
-      {
-        "title": "CMS Development Deliverables",
-        "text": [
-          "Website"
-        ]
-      },
-      {
-        "title": "Front-End Development Deliverables",
-        "text": [
-          "WordPress Development"
-        ]
-      },
-      {
-        "title": "Product Management Skills",
-        "text": [
-          "UX & UI"
-        ]
-      },
-      {
-        "title": "Programming Languages",
-        "text": [
-          "JavaScript"
-        ]
-      },
-      {
-        "title": "UX/UI Design Software",
-        "text": [
-          "Figma"
         ]
       }
     ]

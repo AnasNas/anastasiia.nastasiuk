@@ -8,7 +8,7 @@
             <div class="cases-grid">
                 <div class="cases-item animate" v-for="(item, key) in cases" :key="`key_${key}`">
                     <div class="cases-img" @mousemove="animationBtn" @mouseleave="animationBtnReset">
-                        <img alt="Vue logo" :src="item.images[0]">
+                        <img alt="case preview" :src="item.images[0]">
                         <div class="animation-btn" @click="modalOpen(item)">Open case</div>
                     </div>
 

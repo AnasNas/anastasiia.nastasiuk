@@ -19,14 +19,21 @@
                 </h1>
 
                 <h2 class="hero-subtitle">
-                    <img :src="require('@/assets/images/hero-rate.png')" alt="hero person">
+                    <span class="hero-svg-container">
+                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" aria-hidden="true" viewBox="0 0 24 24"
+                             role="img">
+                            <path vector-effect="non-scaling-stroke" stroke="#fff"
+                                  stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"
+                                  d="M17.911 18.594c.3 1.096-.897 1.893-1.793 1.295l-4.086-2.69-4.085 2.69c-.897.598-2.092-.299-1.793-1.295L7.25 13.91l-3.787-3.09c-.896-.697-.398-2.092.698-2.191l4.882-.3 1.794-4.583c.398-.996 1.893-.996 2.291 0l1.794 4.584m2.491.3v6.974M21 12.117h-6.975"></path>
+                        </svg>
+                    </span>
 
                     <span>top rated</span>
                 </h2>
             </div>
 
             <div class="hero-img">
-                <img :src="require('@/assets/images/hero-person.png')" alt="hero person">
+                <img :src="require('@/assets/images/hero-person.webp')" alt="hero person">
             </div>
         </div>
     </section>
@@ -72,7 +79,7 @@ export default {
 <style scoped lang="scss">
 .hero {
     height: 100vh;
-    background-image: url("@/assets/images/hero-bg.png");
+    background-image: url("@/assets/images/hero-bg.webp");
     background-size: cover;
     background-position: bottom center;
     background-repeat: no-repeat;
@@ -85,6 +92,38 @@ export default {
         justify-content: space-between;
         gap: 60px;
         height: 100%;
+    }
+
+    .hero-svg-container {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 28px;
+        min-width: 28px;
+        height: 16px;
+        background-color: #f66dbc;
+        position: relative;
+
+        svg {
+            z-index: 1;
+            width: 16px;
+        }
+
+        &::before, &::after {
+            content: '';
+            width: 28px;
+            min-width: 28px;
+            height: 16px;
+            background-color: #f66dbc;
+            transform: translate(-50%, -50%) rotate(60deg);
+            position: absolute;
+            top: 50%;
+            left: 50%;
+        }
+
+        &::after {
+            transform: translate(-50%, -50%) rotate(-60deg);
+        }
     }
 
     .hero-img {
@@ -218,7 +257,7 @@ export default {
     }
 
     @include breakpoint(small-tablet-portrait) {
-        background-image: url("@/assets/images/hero-mobile-bg.png");
+        background-image: url("@/assets/images/hero-mobile-bg.webp");
         min-height: 600px;
 
         .hero-container {
