@@ -46,19 +46,19 @@
 				>
 					<swiper-slide>
 						<h4 class="h4">Let's talk!</h4>
-						<a href="https://www.upwork.com/freelancers/anastasiia1">
+						<a href="https://www.upwork.com/freelancers/anastasiia1" target="_blank">
 							https://www.upwork.com
 						</a>
 					</swiper-slide>
 					<swiper-slide>
 						<h4 class="h4">Let's talk!</h4>
-						<a href="https://www.upwork.com/freelancers/anastasiia1">
+						<a href="https://www.upwork.com/freelancers/anastasiia1" target="_blank">
 							https://www.upwork.com
 						</a>
 					</swiper-slide>
 					<swiper-slide>
 						<h4 class="h4">Let's talk!</h4>
-						<a href="https://www.upwork.com/freelancers/anastasiia1">
+						<a href="https://www.upwork.com/freelancers/anastasiia1" target="_blank">
 							https://www.upwork.com
 						</a>
 					</swiper-slide>
