@@ -139,7 +139,7 @@ export default {
 	h2, a {
 		color: #FFFFFF;
 		font-size: 24px;
-		line-height: 1px;
+		line-height: 1;
 
 		@media (max-width: 767px) {
 			font-size: 18px;
