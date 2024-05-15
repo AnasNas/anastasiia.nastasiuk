@@ -1,6 +1,6 @@
 <template>
     <div class="footer">
-        <a href="mailto:anastasiia.nastasiuk@gmail.com" class="main-title">
+        <a href="https://www.upwork.com/freelancers/anastasiia1" target="_blank" class="main-title">
             <div class="container">
                 <span>Let's talk</span>
                 <svg class="desktop" width="440" height="96" viewBox="0 0 440 96" fill="none" xmlns="http://www.w3.org/2000/svg">

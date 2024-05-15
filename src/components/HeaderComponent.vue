@@ -1,7 +1,7 @@
 <template>
     <div class="header show">
         <div class="container">
-            <a href="https://www.upwork.com/freelancers/anastasiia1" class="link-name">
+            <a href="https://www.upwork.com/freelancers/anastasiia1" target="_blank" class="link-name">
                 <svg width="28" height="28" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <circle cx="14" cy="14" r="14" fill="#6FDA44"/>
                     <g clip-path="url(#clip0_67_1720)">
@@ -18,8 +18,6 @@
 
                 <span>Anastasiia</span>
             </a>
-
-            <a href="mailto:anastasiia.nastasiuk@gmail.com" class="link-email">anastasiia.nastasiuk@gmail.com</a>
         </div>
     </div>
 </template>
