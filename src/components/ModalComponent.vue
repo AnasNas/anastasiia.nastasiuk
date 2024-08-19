@@ -10,7 +10,7 @@
 			<div class="modal-body">
 				<img v-for="(image, key) in caseItem.images" :key="`key_${key}`" :src="image" alt="case image">
 
-				<a :href="caseItem.link" class="btn text">
+				<a target="_blank"  :href="caseItem.link" class="btn text">
 					<span>Open live site</span>
 					<svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
 						<rect width="30" height="30" rx="4" fill="#6FDA44"/>

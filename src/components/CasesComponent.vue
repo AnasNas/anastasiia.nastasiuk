@@ -3,7 +3,7 @@
         <div class="container">
             <h2 class="title">Cases</h2>
 
-            <h3 class="cases-subtitle">50+ successfully completed projects</h3>
+            <h3 class="cases-subtitle">110+ successfully completed projects</h3>
 
             <div class="cases-grid">
                 <div class="cases-item animate" v-for="(item, key) in cases" :key="`key_${key}`">
